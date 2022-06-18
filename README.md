@@ -4,6 +4,7 @@ This is a Basic implementation of Slack bot . For This we used the official slac
 Other Then that in this we have used Socket connection as we have to listen for events happeing in the channel .</br>
 To run this Program you can clone this repo.</br>
 After Cloing this repo You have to set this const variable in main.go file According to your token and channelID</br>
+# By default It uses my Presonal token which will stop working after sometime .   
   token This is the Authentication Token</br>
   appToken //This is app Token </br>
   channelID  //This is the channel id your bot is going to interact with .</br>
